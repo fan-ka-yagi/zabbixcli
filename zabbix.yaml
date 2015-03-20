@@ -1,0 +1,4 @@
+zabbix:
+  server: "example.net"
+  username: "johnsmith"
+  password: "keepC@lm&c@rry0n"
